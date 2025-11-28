@@ -1,0 +1,30 @@
+
+---
+
+# **.gitignore**
+
+```gitignore
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files (local development)
+*.db
+
+# Environment variables
+.env
+
+# IDE / OS specific
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Python packages
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
